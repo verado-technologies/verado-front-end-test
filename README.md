@@ -1,6 +1,6 @@
-#Verado Front End Test
+# Verado Front End Test
 
-##Task
+## Task
 
 If you are a new candidate please create a new branch and create a pull request.
 
