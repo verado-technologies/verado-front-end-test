@@ -2,7 +2,7 @@
 
 ## Task
 
-If you are a new candidate please create a new branch and create a pull request.
+If you are a new candidate please create a new branch and create a pull request. Please make sure you are using the [Angular CLI](https://cli.angular.io/) to structure your project.
 
 The aim of this test is to build a chat interface for [staging.verado.com](https://staging.verado.com) that matches the sites 'theme' as well as using your own initiative to add animations, style and UX you feel would work well for our particular use case.
 
