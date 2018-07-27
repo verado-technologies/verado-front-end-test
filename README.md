@@ -10,7 +10,7 @@ Please create a new branch and create a pull request. Please make sure you are u
 
 The aim of this test is to build a chat interface for [staging.verado.com](https://staging.verado.com) that matches the sites 'theme' as well as using your own initiative to add animations, style and UX you feel would work well for our particular use case. Please include some animations.
 
-As you know Verado.com is a marketplace connecting buyers and sellers of pre-owned valuable goods. The chat system will be the way for sellers and buyers to communicate directly. Sellers should be able to send a special offer to the buyers and buyers should be able to accept or reject it. 
+As you know Verado.com is a marketplace connecting buyers and sellers of pre-owned valuable goods. The chat system will be the way for sellers and buyers to communicate directly. Sellers should be able to send a special offer to the buyers and buyers should be able to accept or reject it. Think of Airbnb's host<>guest message board. 
 
 Things you must include are:
 
